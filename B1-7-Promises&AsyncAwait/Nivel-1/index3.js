@@ -17,4 +17,8 @@ document.getElementById('btnPromesa2').addEventListener('click', () => {
             console.log(valor);
             document.getElementById("Promesa3").innerHTML = valor;
         })
+        .catch(error => {
+            console.log(error);
+            document.getElementById("Promesa3").innerHTML = error;
+        });
 });
