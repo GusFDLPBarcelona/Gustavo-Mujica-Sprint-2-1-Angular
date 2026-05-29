@@ -1,6 +1,10 @@
 # Sprint 2.1 — JavaScript Fundamentals
 
-Colección de ejercicios prácticos de JavaScript moderno organizados por tema y nivel de dificultad (Nivel 1 → 3). Cada ejercicio se ejecuta en el navegador e incluye interacción con el DOM para visualizar los resultados.
+Colección de ejercicios prácticos de JavaScript moderno organizados por tema y nivel de dificultad (Nivel 1 → 3). Cada ejercicio se ejecuta en el navegador e incluye interacción con el DOM y visualización de resultados en la consola del navegador.
+
+## Demo
+
+[Ver demo en vivo](https://gusfdlpbarcelona.github.io/Gustavo-Mujica-Sprint-2-1-Angular/)
 
 ## Temas cubiertos
 
